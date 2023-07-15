@@ -1,0 +1,5 @@
+export * from './sections/hero-section'
+export * from './components/imagemdefundo'
+export * from './components/logo'
+export * from './components/titulologo'
+export * from './components/paragrafo'
